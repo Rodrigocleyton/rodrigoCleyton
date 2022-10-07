@@ -25,5 +25,5 @@
   <img align="center" alt="Rodrigo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rodrigo-postgre" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Rodrigo-spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Rodrigo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg">
+  
 </div>
