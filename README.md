@@ -4,7 +4,7 @@
 
 - 🔭 Hoje eu trabalho com desenvolvimento Back End
 - 🌱 Estou no 5° período de Engenharia de software
-- 📫 Cotate-me no e-mail: rodrigo.engenheirodesoftware@gmail.com
+- 📫 Contate-me no e-mail: rodrigo.engenheirodesoftware@gmail.com
 
 
   <a href="https://github.com/Rodrigocleyton">
