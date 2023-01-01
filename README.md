@@ -1,9 +1,9 @@
 ## Olá, eu sou o Rodrigo Cleyton
 
 
-
-- 🔭 Hoje eu trabalho com desenvolvimento Back End
-- 🌱 Estou no 5° período de Engenharia de software
+-  Certificação AWS Clound Practitioner 
+- 🔭 Hoje eu trabalho com desenvolvimento Back End e analista Middleware
+- 🌱 Estou no 6° período de Engenharia de software
 - 📫 Contate-me no e-mail: rodrigo.engenheirodesoftware@gmail.com
 
 
