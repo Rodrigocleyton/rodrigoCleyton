@@ -5,7 +5,7 @@
 -  Certificação AWS Solution Architect Associate
 -  Certificação AWS Developer Associate 
 - 🔭 Hoje eu trabalho com desenvolvimento Back End e analista Middleware
-- 🌱 Estou no 6° período de Engenharia de software
+- 🌱 Estou no 7° período de Engenharia de software
 - 📫 Contate-me no e-mail: rodrigo.engenheirodesoftware@gmail.com
 
 
